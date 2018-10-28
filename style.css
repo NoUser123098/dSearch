@@ -1,1 +1,8 @@
-
+body {
+  background-color: #1e90ff;
+}
+.search-box {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  border: 1px solid black;
+  width: 300px;
+}
